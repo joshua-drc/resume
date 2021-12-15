@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img style={{width: 120, height: 120, borderRadius: 120/2}} src="./profile.jpeg" alt="profile_picture" />
+        <img style={{width: 120, height: 120, borderRadius: 120/2}} src="./profile.png" alt="profile_picture" />
         <Typography style={{fontSize: 30}}>
           Joshua D'Arcy, M.D.
         </Typography>
