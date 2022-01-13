@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img style={{width: 120, height: 120, borderRadius: 120/2}} src="./profile.png" alt="profile_picture" />
         <Typography style={{fontSize: 30}}>
-          Joshua D'Arcy, M.D.
+          Joshua D'Arcy, M.D., M.Eng.
         </Typography>
         <Typography style={{fontSize: 16, align:"center", color: "lightgrey"}}>
           Machine Learning Engineer
